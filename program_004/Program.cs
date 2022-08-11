@@ -16,7 +16,6 @@ for (int i = 0; i < numbers.Length; i++)
     if (numbers[i]>max)
     {
         max = numbers[i];
-        System.Console.WriteLine($"max теперь равно {max}");
     }
 }
 
